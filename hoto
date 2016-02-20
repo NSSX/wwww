@@ -1,0 +1,8 @@
+gcc *.c -lmlx -framework OpenGL -framework AppKit libft.a
+
+
+
+MAP 100 100 depuis fichier
+clef a prendre
+ouverture porte
+
